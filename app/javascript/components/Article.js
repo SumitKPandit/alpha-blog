@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-
 import Timeago from "react-timeago";
 
 class Article extends React.Component {
